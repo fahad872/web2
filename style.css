@@ -1,0 +1,237 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}  
+.navbar{
+    position: fixed;
+    width: 100vw;
+    height: 45px;
+    display: flex;
+    background-color:#6F6AF7;
+    color: #FFFFFF;
+    float: left;
+    justify-content: space-between;
+    padding: 10px;
+}
+ li{
+    float: left;
+    list-style-type: none;
+    margin: 13px 20px;
+    
+}
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+     margin: 20px;
+     font-size: 19px;
+}
+#dappr{
+    padding-left: 20px;
+    padding-top: 9px;
+    width: 90px;
+    height: 30px;
+}
+#vector{
+    margin: 10px;
+    margin-right: 40px;
+}
+
+#navsearch{
+    width: 220px;
+    height: 30px;
+    margin-top: 5px;
+    border-radius: 15px;
+    color: #9F9F9F;
+    border: none;
+    padding-left: 22px;
+}
+#srch{
+   display: flex;
+   position: fixed;
+   padding-left: 202px;
+   margin-top: -24px;
+   width: 20px;
+}
+#sociallogo{
+    
+    position:fixed;
+    margin-top: 240px;
+    margin-left: 1215px;
+}
+.main{
+    display: flex;
+    width: 1150px;
+    padding-top: 162px;
+    margin-left: 66px;
+    
+}
+#codimg{
+         width: 340px;
+         height: 330px;
+}
+#rect{  
+         margin-top: 14px;
+         margin-left: 20px;
+         width: 772px;
+         height: 295px;
+         background-color: #E5D8FF;
+         color: #6F7373;
+         border-radius: 18px;
+
+}
+#menlogo{
+     display: flex; 
+     position:fixed;
+     height: 105px;
+    margin-top: -10px;
+    padding-left: 1120px;
+    
+}
+.fourbox{   
+    width: 1160px;
+    margin-top: 40px;
+    margin-left: 51px;
+    display: flex;
+    flex-direction: row;
+    color: #FFFFFF;
+    justify-content: space-between;
+    line-height: 27px;
+    
+    
+}
+#box1{
+    width: 170px;
+    height: 80px;
+    background: #929DFF;
+    border-radius: 7px;
+    padding-top: 10px;
+    padding-left: 21px;
+    box-shadow: 0px 9px 40px 0px #00000066;
+
+
+}
+#box2{
+    width: 170px;
+    height: 80px;
+    background: #734CF2;
+    border-radius: 7px;
+    padding-top: 10px;
+    padding-left: 21px;
+    box-shadow: 0px 9px 40px 0px #00000066;
+}
+#box3{
+    width: 170px;
+    height: 80px;
+    background: #D288FF;
+    border-radius: 7px;
+    padding-top: 10px;
+    padding-left: 21px;
+    box-shadow: 0px 9px 40px 0px #00000066;
+}
+#box4{
+    width: 170px;
+    height: 80px;
+    background: #000000;
+    border-radius: 7px;
+    padding-top: 10px;
+    padding-left: 21px;
+    box-shadow: 0px 9px 40px 0px #00000066;
+}
+.main_about{
+    margin-top: 90px;
+    margin-left: 51px;
+    width: 1160px;
+    height: 430px;
+    background-color: #483EFF;
+    display: flex;
+    border-radius: 17px;
+   
+
+}
+.about_elements{
+    display: flex;
+    flex-direction: column;
+    height: 370px;
+    margin-top: 63px;
+    margin-left: 30px;
+    justify-content: space-evenly;
+    text-align: center;
+
+}
+#yourinfo{
+    width: 193px;
+    height:58px;
+    background-color: #BCE0F6;
+    border-radius: 14px;
+    margin-top: -55px;
+    padding-top: 10px;
+    font-weight: bold;
+    
+    
+
+}
+#bookmarks{
+    width: 190px;
+    height:58px;
+    border: 2px solid #FFFFFF;
+    background-color:#483EFF;
+    color: #FFFFFF;
+    border-radius: 14px;
+    padding-top: 10px;
+    font-weight: bold;
+    
+   
+}
+#settings{
+    width: 190px;
+    height:58px;
+    border: 2px solid #FFFFFF;
+    background-color:#483EFF;
+    color: #FFFFFF;
+    border-radius: 14px;
+    padding-top: 7px;
+    font-weight: bold;
+    
+}
+.details{
+    margin-left: 60px;
+    margin-top: 45px;
+    background-color: #FFFFFF;
+    width: 850px;
+    height: 350px;
+    line-height: 35px;
+    color: #04285A;
+    
+
+}
+ #Yinfo{
+    padding-left: 35px;
+    padding-bottom: 5px;
+    margin-top: 30px;
+    color: #04285A;
+
+    
+} 
+#name{ 
+   padding-left: 50px;
+   padding-top: 20px;
+
+   
+   
+}
+.datavalue{
+    /* padding-top: -300px; */
+    padding-left: 80px;
+    margin-top: -139px;
+    color: #7d8da4;
+    font-weight: lighter;
+ } 
+#next{
+    width: 93px;
+    margin-left: 660px;
+    margin-top: 48px;
+    background-color:#000000;
+    color: #FFFFFF;
+    text-align: center;
+    border-radius: 5px;
+}
